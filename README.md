@@ -1,1 +1,1 @@
-# how-to-install-node.js
+# how-to
